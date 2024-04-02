@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Battery discharger",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.ino": "cpp",
+			"istream": "cpp",
+			"ostream": "cpp"
+		}
+	}
+}
